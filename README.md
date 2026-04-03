@@ -19,11 +19,11 @@
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/AutoCad_new_logo.svg" height="40"/>
-  <img src="https://en.wikipedia.org/wiki/Autodesk_Revit#/media/File:Autodesk_Revit_Logo.svg" height="40"/>
+  <img src="https://alphanetrix.com/wp-content/uploads/2025/09/Autodesk-13-revit.png" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
   <img src="https://www.primakon.com/wp-content/uploads/2020/11/Oracle-Primavera-Logo.png" height="40"/>
-  <img src="https://en.wikipedia.org/wiki/Microsoft_Excel#/media/File:Microsoft_Office_Excel_(2025%E2%80%93present).svg" height="40"/>
+  <img src="https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/dS01OTE4LWhjcDVmSw?image-coordinates=0%2C0%2C1200%2C1200&image-dimensions=120x120" height="40"/>
 </p>
 
 ---
